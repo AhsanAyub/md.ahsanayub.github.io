@@ -1,9 +1,13 @@
 ---
-layout: page
+layout: home
 title: Welcome to my personal website!
 ---
 
 ![](https://avatars1.githubusercontent.com/u/12248689?s=250)
+
+**Ahsan Ayub**
+
+Email: mayub42@students.tntech.edu
 
 [Resume](./assets/Resume_of_Md._Ahsan_Ayub.pdf) | [Google Scholar](https://scholar.google.com/citations?user=xRr78bIAAAAJ) | [LinkedIn](https://www.linkedin.com/in/mdahsanayub/) | [Twitter](https://twitter.com/MdAhsanAyub)
 

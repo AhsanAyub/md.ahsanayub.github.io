@@ -26,7 +26,7 @@ My professional resume can be found [here](./assets/Resume_of_Md._Ahsan_Ayub.pdf
 
 ## Latest News
 
-* [May, 2019] Our research paper, "A Protocol Independent Approach in Network Covert Channel Detection" has been accepted to the [22nd IEEE International Conference on Computational Science and Engineering (IEEE CSE 2019)](http://www.cloud-conf.net/CSE/2019/)
+* [May, 2019] Our research paper, "A Protocol Independent Approach in Network Covert Channel Detection" has been accepted to the [22nd IEEE International Conference on Computational Science and Engineering (IEEE CSE 2019)](http://www.cloud-conf.net/CSE/2019/).
 * [May, 2019] I have successfully completed Spring, 2019 semester with a CGPA of 4.0 out of 4.0. It was the second semester my doctoral program.
 
 

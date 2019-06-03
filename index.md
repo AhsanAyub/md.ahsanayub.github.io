@@ -1,6 +1,6 @@
 # Welcome to my personal website!
 
-![picture alt](assets/Picture_Md._Ahsan_Ayub_Sharable.jpeg)
+![picture alt](./assets/Picture_Md._Ahsan_Ayub_Sharable.jpeg =250px)
 
 ## Biography
 

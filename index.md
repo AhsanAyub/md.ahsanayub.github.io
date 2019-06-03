@@ -5,11 +5,9 @@ title: Welcome to my personal website!
 
 ![](https://avatars1.githubusercontent.com/u/12248689?s=250)
 
-**Ahsan Ayub**
+### Ahsan Ayub
 
-Email: mayub42@students.tntech.edu
-
-[Resume](./assets/Resume_of_Md._Ahsan_Ayub.pdf) | [Google Scholar](https://scholar.google.com/citations?user=xRr78bIAAAAJ) | [LinkedIn](https://www.linkedin.com/in/mdahsanayub/) | [Twitter](https://twitter.com/MdAhsanAyub)
+Tennessee Tech University, Cookeville, USA
 
 ## Bio
 
@@ -17,7 +15,9 @@ I am a Ph.D. student at [Tennessee Tech](https://www.tntech.edu/) in the [Depart
 
 At CEROC, I am working with [Prof. Ambareen Siraj](users.csc.tntech.edu/~asiraj/) and am privileged to solve important, real-world cybersecurity problems. Having the quality of an independent researcher, I recognize and define a problem on the field of malware detection, e.g. ransomware, malicious domain names, etc., formulate a technique or methodology to solve that defined problem, and evaluate the findings and solution.
 
-My research work also broadly coincides with supervised and unsupervised machine learning techniques, deep learning, and adversarial machine learning as well. Apart from academic research, I participate in Cyber Interest Group - Defense and Offense Team at Tennessee Tech to make ourselves competent and ready for the ever growing field of Cyber Security. In my pastime, I primarily exercise ad-hoc problems in competitive programming environment. 
+My research work also broadly coincides with supervised and unsupervised machine learning techniques, deep learning, and adversarial machine learning as well. Apart from academic research, I participate in Cyber Interest Group - Defense and Offense Team at Tennessee Tech to make ourselves competent and ready for the ever growing field of Cyber Security. In my pastime, I primarily exercise ad-hoc problems in competitive programming environment.
+
+My professional resume can be found [here](./assets/Resume_of_Md._Ahsan_Ayub.pdf). 
 
 ## Latest News
 

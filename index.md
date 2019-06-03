@@ -1,13 +1,17 @@
 ---
-layout: home
+layout: page
 title: Welcome to my personal website!
 ---
 
 ![](https://avatars1.githubusercontent.com/u/12248689?s=250)
 
-### Ahsan Ayub
+### AHSAN AYUB
 
-Tennessee Tech University, Cookeville, USA
+Email: [mayub42@students.tntech.edu](mailto:mayub42@students.tntech.edu)\
+<a href="https://scholar.google.com/citations?user=xRr78bIAAAAJ">Google Scholar</a> |
+<a href="https://www.linkedin.com/in/mdahsanayub/">LinkedIn</a> |
+<a href="https://twitter.com/MdAhsanAyub">Twitter</a>
+
 
 ## Bio
 

@@ -3,7 +3,7 @@ layout: page
 title: Welcome to my personal website!
 ---
 
-![](https://avatars1.githubusercontent.com/u/12248689?s=250)
+![](https://avatars1.githubusercontent.com/u/12248689?s=280)
 
 ### AHSAN AYUB
 

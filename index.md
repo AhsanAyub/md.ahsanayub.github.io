@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Welcome to my personal website
+title: Welcome to my personal website!
 ---
 
 ![](https://avatars1.githubusercontent.com/u/12248689?s=250)
 
-## Biography
+[Resume](./assets/Resume_of_Md._Ahsan_Ayub.pdf) | [Google Scholar](https://scholar.google.com/citations?user=xRr78bIAAAAJ) | [LinkedIn](https://www.linkedin.com/in/mdahsanayub/) | [Twitter](https://twitter.com/MdAhsanAyub)
+
+## Bio
 
 I am a Ph.D. student at [Tennessee Tech](https://www.tntech.edu/) in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) with an emphasis of Cybersecurity and have been appointed as a Graduate Research Assistant at [Cyber Security Education, Research and Outreach Center (CEROC)](https://www.tntech.edu/ceroc/). Before starting my PhD program, I had served at [Appinion BD Ltd](http://www.appinionbd.com/), an evolving software development company in Dhaka, as a Software Project Manager for over one year and half after completing my undergrad program from [American International University-Bangladesh](http://www.aiub.edu/) majoring in Computer Science & Engineering.
 
@@ -13,9 +15,11 @@ At CEROC, I am working with [Prof. Ambareen Siraj](users.csc.tntech.edu/~asiraj/
 
 My research work also broadly coincides with supervised and unsupervised machine learning techniques, deep learning, and adversarial machine learning as well. Apart from academic research, I participate in Cyber Interest Group - Defense and Offense Team at Tennessee Tech to make ourselves competent and ready for the ever growing field of Cyber Security. In my pastime, I primarily exercise ad-hoc problems in competitive programming environment. 
 
-## News
+## Latest News
 
 * [May, 2019] Our research paper, "A Protocol Independent Approach in Network Covert Channel Detection" has been accepted to the [22nd IEEE International Conference on Computational Science and Engineering (IEEE CSE 2019)](http://www.cloud-conf.net/CSE/2019/)
+* [May, 2019] I have successfully completed Spring, 2019 semester with a CGPA of 4.0 out of 4.0. It was the second semester my doctoral program.
+
 
 ## Publication
 

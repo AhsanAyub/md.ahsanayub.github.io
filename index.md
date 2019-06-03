@@ -7,10 +7,11 @@ title: Welcome to my personal website!
 
 ### AHSAN AYUB
 
-Email: [mayub42@students.tntech.edu](mailto:mayub42@students.tntech.edu) </br>
-<a href="https://scholar.google.com/citations?user=xRr78bIAAAAJ">Google Scholar</a> |
-<a href="https://twitter.com/MdAhsanAyub">Twitter</a> |
-<a href="https://www.linkedin.com/in/mdahsanayub/">LinkedIn</a>
+Email: [mayub42@students.tntech.edu](mailto:mayub42@students.tntech.edu)
+
+<a href="https://scholar.google.com/citations?user=xRr78bIAAAAJ" target="_blank">Google Scholar</a> |
+<a href="https://twitter.com/MdAhsanAyub" target="_blank">Twitter</a> |
+<a href="https://www.linkedin.com/in/mdahsanayub/" target="_blank">LinkedIn</a>
 
 
 ## Bio

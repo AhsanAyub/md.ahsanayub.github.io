@@ -1,14 +1,19 @@
-Welcome to my personal website!
+# Welcome to my personal website!
+
+![picture alt](assets/Picture_Md._Ahsan_Ayub_Sharable.jpeg)
 
 ## Biography
 
-I am a Ph.D. student at Tennessee Tech with an emphasis of Cyber Security and have been appointed as a graduate research assistant at Cyber Security Education, Research and Outreach Center (CEROC). Before starting my PhD program, I had served at Appinion, an evolving software development company in Dhaka, as a Software Project Manager for over one year and half after completing my undergrad program from American International University-Bangladesh majoring in Computer Science & Engineering.
+I am a Ph.D. student at [Tennessee Tech](https://www.tntech.edu/) in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) with an emphasis of Cybersecurity and have been appointed as a Graduate Research Assistant at [Cyber Security Education, Research and Outreach Center (CEROC)](https://www.tntech.edu/ceroc/). Before starting my PhD program, I had served at [Appinion BD Ltd](http://www.appinionbd.com/), an evolving software development company in Dhaka, as a Software Project Manager for over one year and half after completing my undergrad program from [American International University-Bangladesh](http://www.aiub.edu/) majoring in Computer Science & Engineering.
 
-At CEROC, I am privileged to solve important, real-world cybersecurity problems. Having the quality of an independent researcher, I recognize and define a problem on the field of malware detection, e.g. ransomware, malicious domain names, etc., formulate a technique or methodology to solve that defined problem, and evaluate the findings and solution.
+At CEROC, I am working with [Prof. Ambareen Siraj](users.csc.tntech.edu/~asiraj/) and am privileged to solve important, real-world cybersecurity problems. Having the quality of an independent researcher, I recognize and define a problem on the field of malware detection, e.g. ransomware, malicious domain names, etc., formulate a technique or methodology to solve that defined problem, and evaluate the findings and solution.
 
 My research work also broadly coincides with supervised and unsupervised machine learning techniques, deep learning, and adversarial machine learning as well. Apart from academic research, I participate in Cyber Interest Group - Defense and Offense Team at Tennessee Tech to make ourselves competent and ready for the ever growing field of Cyber Security. In my pastime, I primarily exercise ad-hoc problems in competitive programming environment. 
 
+## News
+
+* [May, 2019] Our research paper, "A Protocol Independent Approach in Network Covert Channel Detection" has been accepted to the [22nd IEEE International Conference on Computational Science and Engineering (IEEE CSE 2019)](http://www.cloud-conf.net/CSE/2019/)
 
 ## Publication
 
-* _M. A. Ayub_, K. A. Kalpoma, H. T. Proma, S. M. Kabir and R. I. H. Chowdhury, "Exhaustive study of essential constraint satisfaction problem techniques based on N-Queens problem," 2017 20th International Conference of Computer and Information Technology (ICCIT), Dhaka, 2017, pp. 1-6. doi: 10.1109/ICCITECHN.2017.8281850
+* [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8281850) _[M. A. Ayub](https://scholar.google.com/citations?hl=en&user=xRr78bIAAAAJ)_, [K. A. Kalpoma](https://scholar.google.com/citations?user=c-hjYaUAAAAJ&hl=en), H. T. Proma, S. M. Kabir and R. I. H. Chowdhury, "Exhaustive study of essential constraint satisfaction problem techniques based on N-Queens problem," 2017 20th International Conference of Computer and Information Technology (ICCIT), Dhaka, 2017, pp. 1-6. doi: 10.1109/ICCITECHN.2017.8281850

@@ -1,6 +1,10 @@
+---
+layout: page
+---
+
 # Welcome to my personal website!
 
-![picture alt](./assets/Picture_Md._Ahsan_Ayub_Sharable.jpeg =250px)
+![](https://avatars1.githubusercontent.com/u/12248689?s=200&v=4)
 
 ## Biography
 

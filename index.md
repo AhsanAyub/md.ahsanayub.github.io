@@ -1,10 +1,9 @@
 ---
 layout: page
+title: Welcome to my personal website
 ---
 
-# Welcome to my personal website!
-
-![](https://avatars1.githubusercontent.com/u/12248689?s=200&v=4)
+![](https://avatars1.githubusercontent.com/u/12248689?s=250)
 
 ## Biography
 

@@ -32,4 +32,6 @@ My professional resume can be found [here](./assets/Resume_of_Md._Ahsan_Ayub.pdf
 
 ## Publication
 
+* [[PDF]](./assets/paper/Authors_Copy_Paper_91_IEEE_CSE_2019.pdf) | [[Slide]](./assets/presentation/IEEE_CSE_2019_Conference_Presentation.pdf) | [[Source]](https://github.com/AhsanAyub/NetworkCovertChannel) _[M. A. Ayub](https://scholar.google.com/citations?hl=en&user=xRr78bIAAAAJ)_, [S. Smith](https://www.linkedin.com/in/steven-smith-79bb94140), and [A. Siraj](https://scholar.google.com/citations?user=DcXiy0AAAAAJ&hl=en&oi=ao), "A Protocol Independent Approach in Network Covert Channel Detection," 2019 IEEE International Conference on Computational Science and Engineering (CSE) and IEEE International Conference on Embedded and Ubiquitous Computing (EUC), New York, 2019, pp. 165-170. doi: 10.1109/CSE/EUC.2019.00040
+
 * [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8281850) _[M. A. Ayub](https://scholar.google.com/citations?hl=en&user=xRr78bIAAAAJ)_, [K. A. Kalpoma](https://scholar.google.com/citations?user=c-hjYaUAAAAJ&hl=en), H. T. Proma, S. M. Kabir and R. I. H. Chowdhury, "Exhaustive study of essential constraint satisfaction problem techniques based on N-Queens problem," 2017 20th International Conference of Computer and Information Technology (ICCIT), Dhaka, 2017, pp. 1-6. doi: 10.1109/ICCITECHN.2017.8281850

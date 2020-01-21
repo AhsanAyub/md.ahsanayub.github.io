@@ -11,8 +11,8 @@ Email: [mayub42@students.tntech.edu](mailto:mayub42@students.tntech.edu)
 
 <a href="https://scholar.google.com/citations?user=xRr78bIAAAAJ" target="_blank">Google Scholar</a> |
 <a href="https://twitter.com/MdAhsanAyub" target="_blank">Twitter</a> |
-<a href="https://www.linkedin.com/in/mdahsanayub/" target="_blank">LinkedIn</a>
-
+<a href="https://www.linkedin.com/in/mdahsanayub/" target="_blank">LinkedIn</a> |
+<a href="https://github.com/AhsanAyub" target="_blank">GitHub</a>
 
 ## Bio
 
@@ -26,7 +26,8 @@ My professional resume can be found [here](./assets/Resume_of_Md._Ahsan_Ayub.pdf
 
 ## Latest News
 
-* [December, 2019] I have been selected to give a technical talk on "CyberAWARE Software Engineerng" at [BRAC University](https://www.bracu.ac.bd) on Mon, Dec. 9 and [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) on Wed, Dec. 11. [[Slide]](./assets/presentation/CyberAware_Software_Engineering_Tech_Talk_12_2019.pdf)
+* [January, 2020] Our research paper, "Model Evasion Attack on Intrusion Detection Systems using Adversarial Machine Learning" has been accepted to the [2020 54th Annual Conference on Information Sciences and Systems (CISS)](https://ee-ciss.princeton.edu).
+* [December, 2019] I have been selected to give a technical talk on "CyberAWARE Software Engineering" at [BRAC University](https://www.bracu.ac.bd) on Mon, Dec. 9 and [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) on Wed, Dec. 11. [[Slide]](./assets/presentation/CyberAware_Software_Engineering_Tech_Talk_12_2019.pdf)
 * [October, 2019] Our research paper, "Parallelized RSA Algorithm: An Analysis with Performance Evaluation using OpenMP Library in High Performance Computing Environment" has been accepted to the [2019 22nd International Conference of Computer and Information Technology (ICCIT)](http://iccit.org.bd/2019/).
 * [September, 2019] I have been selected to present a talk on "Encryption and Ciphers Introduction" to mainly Computer Science students at Tennessee Tech University on November 21, 2019. [[Slide]](./assets/presentation/Encryption_Baseline_Course.pdf)
 * [June, 2019] I volunteered at the GenCyber Program at Tennessee Tech University, a week long summer cybersecurity camp for students which has been jointly funded by the National Security Agency (NSA) and the National Science Foundation (NSF). [LinkedIn Post](https://www.linkedin.com/posts/mdahsanayub_cybersecurity-cybersecuritytraining-workforceofthefuture-activity-6550530573415305216-l0bO)

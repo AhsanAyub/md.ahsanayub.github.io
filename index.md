@@ -38,7 +38,7 @@ My professional resume can be found [here](./assets/Resume_of_Md._Ahsan_Ayub.pdf
 
 ## Publication
 
-* [[Source]](https://github.com/AhsanAyub/adversarial_ml_ids) _[M. A. Ayub](https://scholar.google.com/citations?user=xRr78bIAAAAJ)_, [WA Johnson](https://scholar.google.com/citations?user=tWMqR5gAAAAJ), [DA Talbert](https://scholar.google.com/citations?user=p-PV344AAAAJ), and [A. Siraj](https://scholar.google.com/citations?user=DcXiy0AAAAAJ), "Model Evasion Attack on Intrusion Detection Systems using Adversarial Machine Learning," IEEE 2020 52nd Annual Conference on Information Sciences and Systems (CISS), pages 1–6.
+* [[Source]](https://github.com/AhsanAyub/adversarial_ml_ids) _[M. A. Ayub](https://scholar.google.com/citations?user=xRr78bIAAAAJ)_, [WA Johnson](https://scholar.google.com/citations?user=tWMqR5gAAAAJ), [DA Talbert](https://scholar.google.com/citations?user=p-PV344AAAAJ), and [A. Siraj](https://scholar.google.com/citations?user=DcXiy0AAAAAJ), "Model Evasion Attack on Intrusion Detection Systems using Adversarial Machine Learning," IEEE 2020 52nd Annual Conference on Information Sciences and Systems (CISS).
 
 * [[PDF]](./assets/paper/PID6235867.pdf) [[Slide]](./assets/presentation/ICCIT_2019_RSA_Parallelization.pdf) [[Source]](https://github.com/AhsanAyub/RSA_Parallelization) _[M. A. Ayub](https://scholar.google.com/citations?user=xRr78bIAAAAJ)_, [Z. A. Onik](https://www.linkedin.com/in/zishanahmedonik), and [S. Smith](https://www.linkedin.com/in/steven-smith-79bb94140), "Parallelized RSA Algorithm: An Analysis with Performance Evaluation using OpenMP Library in High Performance Computing Environment," 2019 22nd International Conference of Computer and Information Technology (ICCIT), 18-20 December, 2019.
 

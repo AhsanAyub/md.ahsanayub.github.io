@@ -5,7 +5,7 @@ title: Welcome to my personal website!
 
 ![](https://avatars1.githubusercontent.com/u/12248689?s=280)
 
-### AHSAN AYUB
+### Ahsan Ayub
 
 Email: [mayub42@students.tntech.edu](mailto:mayub42@students.tntech.edu)
 
@@ -33,12 +33,11 @@ My professional resume can be found [here](./assets/Resume_of_Md._Ahsan_Ayub.pdf
 * [June, 2019] I volunteered at the GenCyber Program at Tennessee Tech University, a week long summer cybersecurity camp for students which has been jointly funded by the National Security Agency (NSA) and the National Science Foundation (NSF). [LinkedIn Post](https://www.linkedin.com/posts/mdahsanayub_cybersecurity-cybersecuritytraining-workforceofthefuture-activity-6550530573415305216-l0bO)
 * [June, 2019] I have completed an online certification course, offered by [Udemy](https://www.udemy.com/), on Machine Learning using Python and R. Certication be viewed [here](https://www.udemy.com/certificate/UC-XUH6XNNI/).
 * [May, 2019] Our research paper, "A Protocol Independent Approach in Network Covert Channel Detection" has been accepted to the [22nd IEEE International Conference on Computational Science and Engineering (IEEE CSE 2019)](http://www.cloud-conf.net/CSE/2019/).
-* [May, 2019] I have successfully completed Spring, 2019 semester with a CGPA of 4.0 out of 4.0. It was the second semester my doctoral program.
 
 
 ## Publication
 
-* [[Source]](https://github.com/AhsanAyub/adversarial_ml_ids) _[M. A. Ayub](https://scholar.google.com/citations?user=xRr78bIAAAAJ)_, [WA Johnson](https://scholar.google.com/citations?user=tWMqR5gAAAAJ), [DA Talbert](https://scholar.google.com/citations?user=p-PV344AAAAJ), and [A. Siraj](https://scholar.google.com/citations?user=DcXiy0AAAAAJ), "Model Evasion Attack on Intrusion Detection Systems using Adversarial Machine Learning," IEEE 2020 52nd Annual Conference on Information Sciences and Systems (CISS).
+* [[PDF]](./assets/paper/Authors_Copy_Model_Evasion_Attack_on_Intrusion_Detection_Systems_using_Adversarial_Machine_Learning.pdf) [[Source]](https://github.com/AhsanAyub/adversarial_ml_ids) _[M. A. Ayub](https://scholar.google.com/citations?user=xRr78bIAAAAJ)_, [WA Johnson](https://scholar.google.com/citations?user=tWMqR5gAAAAJ), [DA Talbert](https://scholar.google.com/citations?user=p-PV344AAAAJ), and [A. Siraj](https://scholar.google.com/citations?user=DcXiy0AAAAAJ), "Model Evasion Attack on Intrusion Detection Systems using Adversarial Machine Learning," IEEE 2020 52nd Annual Conference on Information Sciences and Systems (CISS).
 
 * [[PDF]](./assets/paper/PID6235867.pdf) [[Slide]](./assets/presentation/ICCIT_2019_RSA_Parallelization.pdf) [[Source]](https://github.com/AhsanAyub/RSA_Parallelization) _[M. A. Ayub](https://scholar.google.com/citations?user=xRr78bIAAAAJ)_, [Z. A. Onik](https://www.linkedin.com/in/zishanahmedonik), and [S. Smith](https://www.linkedin.com/in/steven-smith-79bb94140), "Parallelized RSA Algorithm: An Analysis with Performance Evaluation using OpenMP Library in High Performance Computing Environment," 2019 22nd International Conference of Computer and Information Technology (ICCIT), 18-20 December, 2019.
 

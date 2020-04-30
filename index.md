@@ -16,7 +16,7 @@ Email: [mayub42@students.tntech.edu](mailto:mayub42@students.tntech.edu)
 
 ## Bio
 
-I am a Ph.D. student in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/) with an emphasis of Cybersecurity and have been working at [Cybersecurity Education, Research & Outreach Center (CEROC)](https://www.tntech.edu/ceroc/) as a Graduate Research Assistant under the supervision of [Prof. Dr. Ambareen Siraj](http://users.csc.tntech.edu/~asiraj/).
+I am a Ph.D. student in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/) with an emphasis of Cybersecurity and have been working at [Cybersecurity Education, Research & Outreach Center (CEROC)](https://www.tntech.edu/ceroc/) as a Graduate Research Assistant under the supervision of [Prof. Dr. Ambareen Siraj](https://www.linkedin.com/in/ambareensiraj/).
 
 At CEROC, I mainly conduct research in the domain of Malware Analysis where I aim to solve important, real-world challenges that involve identification, protection, detection, and recovery from malware by incorporating Data Science, Machine Learning, Deep Learning, and other techniques as per requirement.
 

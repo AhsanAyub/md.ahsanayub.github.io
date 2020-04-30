@@ -16,13 +16,12 @@ Email: [mayub42@students.tntech.edu](mailto:mayub42@students.tntech.edu)
 
 ## Bio
 
-I am a Ph.D. student at [Tennessee Tech](https://www.tntech.edu/) in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) with an emphasis of Cybersecurity and have been appointed as a Graduate Research Assistant at [Cybersecurity Education, Research & Outreach Center (CEROC)](https://www.tntech.edu/ceroc/). Prior starting my Ph.D. program, I served at [Appinion BD Ltd.](http://www.appinionbd.com/), an evolving software development company in Dhaka, as a Software Project Manager for over one year and half after completing my undergrad program from [American International University-Bangladesh](http://www.aiub.edu/) majoring in Computer Science & Engineering.
+I am a Ph.D. student in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/) with an emphasis of Cybersecurity and have been working at [Cybersecurity Education, Research & Outreach Center (CEROC)](https://www.tntech.edu/ceroc/) as a Graduate Research Assistant under the supervision of [Prof. Dr. Ambareen Siraj](http://users.csc.tntech.edu/~asiraj/).
 
-At CEROC, I am working with [Prof. Dr. Ambareen Siraj](http://users.csc.tntech.edu/~asiraj/) and am privileged to solve important, real-world cybersecurity problems. Having the quality of an independent researcher, I recognize and define a problem on the field of malware detection, e.g., ransomware, malicious domain names, etc., formulate a technique or methodology to solve that defined problem, and evaluate the findings and solution.
+At CEROC, I mainly conduct research in the domain of Malware Analysis where I aim to solve important, real-world challenges that involve identification, protection, detection, and recovery from malware by incorporating Data Science, Machine Learning, Deep Learning, and other techniques as per requirement.
 
-My research work also broadly coincides with Machine Learning. Apart from research, I participate in Defense, Offense, and Capture The Flag Cyber Interest Group at Tennessee Tech to make ourselves competent and ready for the ever growing field of cybersecurity. In my pastime, I primarily exercise ad-hoc problems in competitive programming environment.
+Aside from research, I enjoy learning industry standards of (Secure) Software Development as well as state-of-the-art practices of Data Science and Machine Learning, participating competitive programming challenges primarily under the category of Algorithm and Data Structure using C / C++, and involving in outreach / (voluntary) leadership activities.
 
-My professional resume can be found [here](./assets/Resume_of_Md._Ahsan_Ayub.pdf). 
 
 ## Latest News
 

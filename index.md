@@ -5,7 +5,7 @@ title: Welcome to my personal website!
 
 ![](https://avatars1.githubusercontent.com/u/12248689?s=280)
 
-### Ahsan Ayub
+#### Ahsan Ayub
 
 Email: [mayub42@students.tntech.edu](mailto:mayub42@students.tntech.edu)
 
@@ -14,7 +14,7 @@ Email: [mayub42@students.tntech.edu](mailto:mayub42@students.tntech.edu)
 <a href="https://www.linkedin.com/in/mdahsanayub/" target="_blank">LinkedIn</a> |
 <a href="https://github.com/AhsanAyub" target="_blank">GitHub</a>
 
-## Bio
+### Bio
 
 I am a Ph.D. student in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/) with an emphasis of Cybersecurity and have been working at [Cybersecurity Education, Research & Outreach Center (CEROC)](https://www.tntech.edu/ceroc/) as a Graduate Research Assistant under the supervision of [Prof. Dr. Ambareen Siraj](https://www.linkedin.com/in/ambareensiraj/).
 
@@ -23,17 +23,17 @@ At CEROC, I mainly conduct research in the domain of Malware Analysis where I ai
 Aside from research, I enjoy learning industry standards of (Secure) Software Development as well as state-of-the-art (academia and industry) practices of Data Science and Machine Learning, participating competitive programming challenges primarily under the category of Algorithm and Data Structure using C / C++, and involving in outreach / (voluntary) leadership activities.
 
 
-## News
+### News
 
-* [April, 2020] I have successfully completed my Ph.D. pre-proposal research presentation, where I discussed some of the prospective research avenues with my advisory committee members -- [Dr. Ambareen Siraj](https://www.linkedin.com/in/ambareensiraj/), [Dr. Michael Rogers](https://sites.tntech.edu/mrogers/), [Dr. Maanak Gupta](https://sites.google.com/view/maanakgupta/home), [Dr. Denis Ulybyshev](http://sites.tntech.edu/dulybyshev/), and [Dr. Mohamed Mahmoud](https://www.cae.tntech.edu/~mmahmoud/)), in fulfillment of my dissertation. [[Slide]](./assets/presentation/Ahsan_Ayub_Pre_Proposal_Research_Defense_April_14.pdf)
-* [February, 2019] I have completed an online certification course on Neural Networks and Deep Learning, offered by [deeplearning.ai](https://www.deeplearning.ai/). [[Certication]](https://www.coursera.org/account/accomplishments/certificate/MX3FZHRR4QNK).
+* [April, 2020] I have successfully completed my Ph.D. pre-proposal research presentation, where I discussed some of the prospective research avenues with my advisory committee members -- [Dr. Ambareen Siraj](https://www.linkedin.com/in/ambareensiraj/), [Dr. Michael Rogers](https://sites.tntech.edu/mrogers/), [Dr. Maanak Gupta](https://sites.google.com/view/maanakgupta/home), [Dr. Denis Ulybyshev](http://sites.tntech.edu/dulybyshev/), and [Dr. Mohamed Mahmoud](https://www.cae.tntech.edu/~mmahmoud/), in fulfillment of my dissertation. [[Slide]](./assets/presentation/Ahsan_Ayub_Pre_Proposal_Research_Defense_April_14.pdf)
+* [February, 2019] I have completed an online certification course on Neural Networks and Deep Learning, offered by [deeplearning.ai](https://www.deeplearning.ai/). [[Certification]](https://www.coursera.org/account/accomplishments/certificate/MX3FZHRR4QNK).
 * [December, 2019] I have been selected to give a technical talk on "CyberAWARE Software Engineering" at [BRAC University](https://www.bracu.ac.bd) on Mon, Dec. 9 and [American International University-Bangladesh (AIUB)](https://www.aiub.edu/) on Wed, Dec. 11. [[Slide]](./assets/presentation/CyberAware_Software_Engineering_Tech_Talk_12_2019.pdf)
 * [September, 2019] I have been selected to present a talk on "Encryption and Ciphers Introduction" to mainly Computer Science students at Tennessee Tech University on November 21, 2019. [[Slide]](./assets/presentation/Encryption_Baseline_Course.pdf)
 * [June, 2019] I have volunteered at the GenCyber Program at Tennessee Tech University, a week long summer cybersecurity camp for students which has been jointly funded by the National Security Agency (NSA) and the National Science Foundation (NSF). [[LinkedIn]](https://www.linkedin.com/posts/mdahsanayub_cybersecurity-cybersecuritytraining-workforceofthefuture-activity-6550530573415305216-l0bO)
-* [June, 2019] I have completed an online certification course on Machine Learning using Python and R, offered by [Udemy](https://www.udemy.com/). [[Certication]](https://www.udemy.com/certificate/UC-XUH6XNNI/).
+* [June, 2019] I have completed an online certification course on Machine Learning using Python and R, offered by [Udemy](https://www.udemy.com/). [[Certification]](https://www.udemy.com/certificate/UC-XUH6XNNI/).
 
 
-## Publications
+### Publications
 
 **2020**
 

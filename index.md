@@ -7,7 +7,7 @@ title: Welcome to my personal website!
 
 ### Ahsan Ayub
 
-Email: [mayub42@students.tntech.edu](mailto:mayub42@students.tntech.edu)
+Email: mayub42 [at] tntech.edu
 
 <a href="https://scholar.google.com/citations?user=xRr78bIAAAAJ" target="_blank">Google Scholar</a> |
 <a href="https://twitter.com/MdAhsanAyub" target="_blank">Twitter</a> |

@@ -16,13 +16,11 @@ Email: mayub42 [at] tntech.edu
 
 ### Bio
 
-I am a Ph.D. student in the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/) with an emphasis of Cybersecurity and have been working at [Cybersecurity Education, Research & Outreach Center (CEROC)](https://www.tntech.edu/ceroc/) as a Graduate Research Assistant under the supervision of [Prof. Dr. Ambareen Siraj](https://www.linkedin.com/in/ambareensiraj/).
-
-At CEROC, I mainly conduct research in the domain of Malware Analysis where I aim to solve important, real-world challenges that involve identification, protection, detection, and recovery from malware by incorporating Data Science, Machine Learning, Deep Learning, and other techniques as per requirement.
+I earned Ph.D. from the [Department of Computer Science](https://www.tntech.edu/engineering/programs/csc/index.php) at [Tennessee Tech University](https://www.tntech.edu/) with an emphasis on Cybersecurity and Data Science. Throughout my doctoral research, I contributed to the experimental research of static and dynamic ransomware analysis to develop multi-layered endpoint protection for prompt and robust detection on Windows environment by incorporating Machine Learning and Reverse Engineering techniques. I published 6 peer-reviewed scholarly articles in ransomware, cryptography, adversarial ML, DGA, and network covert communication so far.
 
 Aside from research, I enjoy learning industry standards of (Secure) Software Development as well as state-of-the-art (academia and industry) practices of Data Science and Machine Learning, participating competitive programming challenges primarily under the category of Algorithm and Data Structure using C / C++, and involving in outreach / (voluntary) leadership activities.
 
-
+<--
 ### News
 
 * [August, 2020] Our paper, “An I/O Request Packet (IRP) Driven Effective Ransomware Detection Scheme using Artificial Neural Network,” has been accepted at the IEEE 21st International Conference on Information Reuse and Integration for Data Science [(IEEE IRI 2020)](https://homepages.uc.edu/~niunn/IRI20/).
@@ -32,7 +30,7 @@ Aside from research, I enjoy learning industry standards of (Secure) Software De
 * [September, 2019] I have been selected to present a talk on "Encryption and Ciphers Introduction" to mainly Computer Science students at Tennessee Tech University on November 21, 2019. [[Slide]](./assets/presentation/Encryption_Baseline_Course.pdf)
 * [June, 2019] I have volunteered at the GenCyber Program at Tennessee Tech University, a week long summer cybersecurity camp for students which has been jointly funded by the National Security Agency (NSA) and the National Science Foundation (NSF). [[LinkedIn]](https://www.linkedin.com/posts/mdahsanayub_cybersecurity-cybersecuritytraining-workforceofthefuture-activity-6550530573415305216-l0bO)
 * [June, 2019] I have completed an online certification course on Machine Learning using Python and R, offered by [Udemy](https://www.udemy.com/). [[Certification]](https://www.udemy.com/certificate/UC-XUH6XNNI/).
-
+-->
 
 ### Publications
 

@@ -20,7 +20,7 @@ I earned Ph.D. from the [Department of Computer Science](https://www.tntech.edu/
 
 Aside from research, I enjoy learning industry standards of (Secure) Software Development as well as state-of-the-art (academia and industry) practices of Data Science and Machine Learning, participating competitive programming challenges primarily under the category of Algorithm and Data Structure using C / C++, and involving in outreach / (voluntary) leadership activities.
 
-<--
+<!---
 ### News
 
 * [August, 2020] Our paper, “An I/O Request Packet (IRP) Driven Effective Ransomware Detection Scheme using Artificial Neural Network,” has been accepted at the IEEE 21st International Conference on Information Reuse and Integration for Data Science [(IEEE IRI 2020)](https://homepages.uc.edu/~niunn/IRI20/).
